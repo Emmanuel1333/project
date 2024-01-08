@@ -8,22 +8,41 @@ section{
     padding-left: 3%;
     padding-top: 1.2%;
     padding-bottom: 1.2%;
-    text-align: center;
     margin-left: 30%;
     border: 1px;
     border-radius: 10px;
     box-shadow: 2px 2px 5px plum;
+    opacity: 0.8;
     background-color: rgb(130, 27, 226);
 }
-.h3{
+h3{
     text-align: center;
+    color: white;
 }
 .namee{
     display: flex;
+    justify-content: space-around;
+    
 }
-.container{
-    bac
-    width: 80%;
-    height: 40%;
-    text-align: center;
+.first{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 26px;
+}
+.last{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 26px;
+}
+.mail{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 26px;
+    width:90%;
+}
+.password{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 26px;
+    width: 90%;
 }
